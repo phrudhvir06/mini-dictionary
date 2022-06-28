@@ -1,0 +1,12 @@
+.main_result_div {
+    background: #fff;
+    border: 1px solid #000;
+    max-height: 542px;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.li_item {
+    text-align: initial;
+}
+
